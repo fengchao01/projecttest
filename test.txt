@@ -1,7 +1,7 @@
 测试测试测试
 推送到远程库
 aaaaaa
-bbbbbb
+bbbbbb冲突测试
 ccccc merge edit
 ccccc dev edit
 uuuuuuu
