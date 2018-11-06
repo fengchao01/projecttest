@@ -1,6 +1,6 @@
 aaaaaa
 bbbbbb
-ccccc
+ccccc merge edit
 uuuuuuu
 werwer
 werdfsferewr
